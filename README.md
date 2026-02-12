@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![QWK Score](https://img.shields.io/badge/QWK-0.8428-brightgreen.svg)](README.md)
 
 Système de notation automatique de réponses courtes d'étudiants utilisant **Sentence-BERT** et des réseaux de neurones **ImprovedMLP** spécialisés par question.
